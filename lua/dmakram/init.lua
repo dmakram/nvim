@@ -1,0 +1,12 @@
+require("dmakram.set")
+require("dmakram.keybindings")
+require("dmakram.pckr")
+require("dmakram.lsp")
+require("dmakram.nvim-tree-config")
+require("dmakram.telescope")
+require("dmakram.color")
+require("dmakram.harpoon")
+require("dmakram.lualine-gruvbox")
+--require("dmakram.coc")
+print("Welcome Dmakram")
+
