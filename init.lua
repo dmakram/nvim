@@ -1,1 +1,1 @@
-require("dmakram")
+require("config.lazy")

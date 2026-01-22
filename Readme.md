@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This is built, based on the previous version of our vim-neovim.
+This is built, based on the previous version of our vim-neovim, [Pineal Developers - Development Guide](https://github.com/dmakram/Development-Guide).
 The Idea was to make it as close as possible and there are more things I will be adding soon.
 
 It is a quick and simple way to start up with Vim/Neovim.
