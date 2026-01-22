@@ -2,8 +2,9 @@
 
 ## Introduction
 
-This is built, based on the previous version of our vim-neovim, [Pineal Developers - Development Guide](https://github.com/dmakram/Development-Guide).
+This is built, based on the previous version of our vim-neovim.
 The Idea was to make it as close as possible and there are more things I will be adding soon.
+![image](https://github.com/dmakram/nvim/blob/main/screenshot.png)
 
 It is a quick and simple way to start up with Vim/Neovim.
 I made sure not to change most of the basic developer tools and UI basics, shortcuts, also a lot of inspiration from [thePrimeagen](https://github.com/theprimeagen)
